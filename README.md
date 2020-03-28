@@ -8,7 +8,7 @@ Each character in the given string is shifted by key number of position to the r
 
 ### Tech Stack used <br>
 [FLASK framework](https://flask.palletsprojects.com/en/1.1.x/). <br>
-[BOOTSTRAP](https://getbootstrap.com/). <br><br>
+[BOOTSTRAP](https://getbootstrap.com/). <br>
 
 ### Instructions to run the program <br>
 • Clone or download this repo locally. <br>
