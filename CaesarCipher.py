@@ -19,10 +19,6 @@ def encryptionPage():
 def decryptionPage():
     return render_template('decrypt.html', logo = img_filename)
 
-@app.route('/code.html')
-def codePage():
-    return render_template('code.html', logo = img_filename)
-
 @app.route('/enc')
 def encrypt():
     plain_text = request.args.get('ptext')
