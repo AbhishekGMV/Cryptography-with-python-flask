@@ -12,5 +12,5 @@ Each character in the given string is shifted by key number of position to the r
 
 ### Instructions to run the program <br>
 • Clone or download this repo locally. <br>
-• Run the CaesarCipher.py script and open [localhost:5000](http://localhost:5000/) in browser(Port number may vary). <br>
+• Run the CaesarCipher.py script and open `localhost:5000` in browser(Port number may vary). <br>
 • Select either encryption or decryption to be performed and provide inputs respectively.
